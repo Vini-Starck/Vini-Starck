@@ -2,7 +2,7 @@
 
 <div align="center">  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vini-Starck/Vini-Starck/foto.png" width="160" />
+  <img src="https://raw.githubusercontent.com/Vini-Starck/Vini-Starck/main/foto.png" width="160" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FC00FF&size=47&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinicius+Starck;I'm+from+Brazil;I'm+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
