@@ -2,7 +2,7 @@
 
 <div align="center">  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vini-Starck/Vini-Starck/main/foto.png" width="160" alt="Foto de Vinícius Starck" />
+  <img src="https://raw.githubusercontent.com/Vini-Starck/Vini-Starck/main/foto_sem_bg.png" width="160" alt="Foto de Vinícius Starck" />
 </p>
 
 
