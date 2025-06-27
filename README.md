@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc00ff&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc00ff&height=120&section=header"/>
+
 
 <div align="center">  
 <p align="center">
@@ -162,4 +163,4 @@ Se você chegou até aqui, valeu demais! 🚀
 Sinta-se à vontade para explorar meus repositórios, colaborar ou entrar em contato.  
 Estou sempre aberto a aprender, contribuir e construir soluções com propósito.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc00ff&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc00ff&height=120&section=header"/>
