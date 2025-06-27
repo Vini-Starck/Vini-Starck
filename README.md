@@ -22,7 +22,7 @@
 </a>
 <br>
 
-[![Portfólio de Vinícius Starck](./portifolio1.png)](https://starck-portifolio.web.app/)
+[![Portfólio de Vinícius Starck](./portifolio6.png)](https://starck-portifolio.web.app/)
 
 
 ### 📬 Onde me encontrar
