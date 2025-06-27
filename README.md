@@ -14,6 +14,7 @@
 <h1 align="center">Vinícius Starck</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
+
 ### 🌐 Portfólio Web
 
 <a href="https://starck-portifolio.web.app/" target="_blank">
@@ -39,6 +40,7 @@
 <a href="https://wa.me/5511975447437?text=Olá%20Vinícius,%20vi%20seu%20GitHub!" target="_blank">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+
 
 
 ### 🧠 Tecnologias e Ferramentas
@@ -82,7 +84,6 @@
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-Starck&layout=compact&theme=tokyonight" alt="Top Langs" />
@@ -91,6 +92,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Vini-Starck&theme=tokyonight" alt="GitHub Streak" /></a>
 
+---
 
 ### 🎯 Objetivo
 
