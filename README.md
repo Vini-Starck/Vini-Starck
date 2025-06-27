@@ -15,11 +15,14 @@
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 
-### 🌐 Portfólio Web
+### 🌐 Portfólio Web (Clique para acessar)
 
 <a href="https://starck-portifolio.web.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visite%20meu%20Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio de Vinícius Starck" />
 </a>
+<br>
+
+[![Portfólio de Vinícius Starck](./portifolio1.png)](https://starck-portifolio.web.app/)
 
 
 ### 📬 Onde me encontrar
